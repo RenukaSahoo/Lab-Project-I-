@@ -16,7 +16,7 @@ This repository contains code and results for analyzing EEG session correlations
       - Output messages and any processing errors
     - **images**: Combined correlation matrix heatmaps for each experiment, showing correlations between EEG channels across sessions.
   - **images_reordered** : Heatmaps of correlation matrices after reordering sessions to correct known order.
-  - **images_unknown_order_dataset/**: Contains results from correlation-based channel reordering (after applying the permutation that gives maximum correlation) to the unknown order dataset .
+  - **images_unknown_order_dataset**: Contains results from correlation-based channel reordering (after applying the permutation that gives maximum correlation) to the unknown order dataset .
     - **Comparison heatmaps**: For each experiment and EEG stream, three heatmaps are saved in a single figure:
       1. Reference correlation matrix
       2. Original test correlation matrix (before reordering)
