@@ -1,6 +1,6 @@
 # Data Harmonisation for EEG Foundational Model Using Correlation-based Channel Reordering
 
-This repository contains code and results for analyzing EEG session correlations to explore whether correlations between EEG channels can be used to automatically recover a consistent channel order when the true order is unknown.
+This repository contains code and results for analyzing EEG session correlations to explore whether it can be used to automatically recover a consistent channel order when the true order is unknown.
 
 ## Folder Structure
 
