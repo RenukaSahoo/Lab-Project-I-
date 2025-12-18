@@ -21,13 +21,13 @@ This repository contains code and results for analyzing EEG session correlations
       1. Reference correlation matrix
       2. Original test correlation matrix (before reordering)
       3. Reordered correlation matrix (after permutation)
-    - **CSV summary**: `unknown_dataset_reordering_correlation_value_summary.csv` contains:
+    - **CSV summary**: contains-
       - Experiment and file names
       - EEG stream names
       - Permutation applied
       - Correlation before and after reordering
       - Boolean indicating whether reordering was necessary
   - **results_known_order**: Contains results from correlation-based channel reordering to known order dataset
-  - **stream_info_summary.csv**: Summary of all EEG/XDF streams in both datasets (`known_order` and `unknown_order`).
+  - **stream_info_summary.csv**: Summary of all EEG/XDF streams in both datasets ('known_order' and 'unknown_order).
   - **xdf_files_summary_new.csv**: Summary of EEG streams with calculated durations. 
     
