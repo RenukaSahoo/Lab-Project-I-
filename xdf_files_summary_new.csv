@@ -1,0 +1,225 @@
+Dataset,File,Stream_Name,Num_Samples,Duration_sec,Status
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_02\recording_busy.xdf,Unicorn,512509,2050.036,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_03\recording_busy.xdf,Unicorn,623930,2495.72,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_04\recording_busy.xdf,Unicorn,482557,1930.228,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_05\recording_busy.xdf,Unicorn,590732,2362.928,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_07\recording_busy.xdf,Unicorn,483187,1932.748,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_09\recording_busy.xdf,Unicorn,518748,2074.992,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_11\recording_busy.xdf,Unicorn,735827,2943.308,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_13\recording_busy.xdf,Unicorn,548047,2192.188,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_22\recording_busy.xdf,Unicorn,429388,1717.552,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_68\recording_busy.xdf,Unicorn,547631,2190.524,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_69\recording_busy.xdf,Unicorn,656646,2626.584,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_77\recording_busy.xdf,Unicorn,662267,2649.068,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_99\recording_busy.xdf,Unicorn,606338,2425.352,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_02\recording_calm.xdf,Unicorn,547149,2188.596,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_03\recording_calm.xdf,Unicorn,718197,2872.788,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_04\recording_calm.xdf,Unicorn,433709,1734.836,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_05\recording_calm.xdf,Unicorn,724862,2899.448,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_07\recording_calm.xdf,Unicorn,508383,2033.532,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_09\recording_calm.xdf,Unicorn,603219,2412.876,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_11\recording_calm.xdf,Unicorn,751614,3006.456,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_13\recording_calm.xdf,Unicorn,722447,2889.788,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_22\recording_calm.xdf,Unicorn,452674,1810.696,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_68\recording_calm.xdf,Unicorn,477613,1910.452,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_69\recording_calm.xdf,Unicorn,870865,3483.46,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_77\recording_calm.xdf,Unicorn,592094,2368.376,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_99\recording_calm.xdf,Unicorn,603564,2414.256,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_140225_23229_Bedtime_ISSUE.xdf,UnicornStream,420530,1682.12,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_150225_1533_WalkBankStore_ISSUE.xdf,UnicornStream,915085,3660.34,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_150225_1659_Cooking.xdf,UnicornStream,1109057,4436.228,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_160225_LyingGaming_2351.xdf,UnicornStream,711549,2846.196,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#2  17.02.25-23.02.25\01_210225_0822_CookingEating.xdf,UnicornStream,1215180,4860.72,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_010325_1643_Cooking.xdf,UnicornStream,1284721,5138.884,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_260225_1626_Writing.xdf,UnicornStream,1173299,4693.196,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_270225_1022_Cooking.xdf,UnicornStream,476656,1906.624,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_270225_1221_WalkPharmacyStore_ISSUE.xdf,UnicornStream,966687,3866.748,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_280225_1435_Cooking.xdf,UnicornStream,961183,3844.732,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#4  03.03.25-09.03.25\01_040325_0740_Busride_ISSUE.xdf,UnicornStream,1062265,4249.06,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#4  03.03.25-09.03.25\01_040325_1531_Cooking.xdf,UnicornStream,698922,2795.688,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_170325_2048_Drawing.xdf,UnicornStream,978758,3915.032,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_170325_2219_CookingEating.xdf,UnicornStream,715296,2861.184,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_180325_0827_CookingEating.xdf,UnicornStream,1209404,4837.616,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_200325_2110_WalkBankStore.xdf,UnicornStream,789478,3157.912,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_210325_2013_ReadingWatching.xdf,UnicornStream,1241269,4965.076,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_220325_1909_Cooking.xdf,UnicornStream,860214,3440.856,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_230325_2212_Gaming.xdf,UnicornStream,1050310,4201.24,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#6 24.03.25-30.03.25\01_240325_2104_WalkBankStore.xdf,UnicornStream,850716,3402.864,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P001_jannik\ses-S001\eeg\sub-P001_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,397344,1589.376,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P001_jannik\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,375578,1502.312,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P002_Moritz\ses-S002\eeg\sub-P002_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,411615,1646.46,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P003_Abdullah\ses-S002\eeg\sub-P003_Abdullah_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,391118,1564.472,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P004_Anita\ses-S002\eeg\sub-P004_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,366812,1467.248,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P004_Anita\sub-P004\ses-S001\eeg\sub-P004_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,390264,1561.056,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P005_Lotta\sub-P005\ses-S001\eeg\sub-P005_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,412338,1649.352,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P005_Lotta\sub-P005\ses-S002\eeg\sub-P005_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,374701,1498.804,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P006_Julian\sub-P006\ses-S001\eeg\sub-P006_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,402123,1608.492,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P006_Julian\sub-P006\ses-S002\eeg\sub-P006_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,383862,1535.448,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P007_julia\sub-P007\ses-S001\eeg\sub-P007_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,384402,1537.608,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P007_julia\sub-P007\ses-S002\eeg\sub-P007_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,403286,1613.144,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P008_Aliaa\sub-P008\ses-S001\eeg\sub-P008_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,430499,1721.996,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P008_Aliaa\sub-P008\ses-S002\eeg\sub-P008_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,392328,1569.312,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S001\eeg\sub-P009_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,491059,1964.236,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S002\eeg\sub-P009_Jurin_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,406715,1626.86,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P010_Nils\ses-S001\eeg\sub-P008_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,408995,1635.98,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P010_Nils\ses-S002\eeg\sub-P010_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,383152,1532.608,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S001\eeg\sub-P011_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,601595,2406.38,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S002\eeg\sub-P011_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,377658,1510.632,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P012_Jonas\ses-S001\eeg\sub-P012_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,385126,1540.504,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P012_Jonas\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,406085,1624.34,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S001\eeg\sub-P013_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,430343,1721.372,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S002\eeg\sub-P013_ses-S002_task-Default_run-001_eeg_old1.xdf,Unicorn,490309,1961.236,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S001\eeg\sub-P014_cihan_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,409734,1638.936,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S002\eeg\sub-P014_cihan_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,391865,1567.46,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S001\eeg\sub-P015_ses-S001_task-Default_run-001_eeg_old1.xdf,Unicorn,554151,2216.604,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S002\eeg\sub-P015_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,397401,1589.604,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S001\eeg\sub-P016_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,400752,1603.008,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S002\eeg\sub-P016_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,381715,1526.86,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P10_ses-S10_task-Default_run-001_eeg.xdf,Unicorn,215967,863.868,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P1_ses-S1_task-Default_run-001_eeg.xdf,Unicorn,217511,870.044,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P2_ses-S2_task-Default_run-001_eeg.xdf,Unicorn,235394,941.576,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P3_ses-S3_task-Default_run-001_eeg.xdf,Unicorn,244327,977.308,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P4_ses-S4_task-Default_run-001_eeg.xdf,Unicorn,233255,933.02,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P5_ses-S5_task-Default_run-001_eeg.xdf,Unicorn,231769,927.076,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P6_ses-S6_task-Default_run-001_eeg.xdf,Unicorn,232545,930.18,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P7_ses-S7_task-Default_run-001_eeg.xdf,Unicorn,223251,893.004,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P8_ses-S8_task-Default_run-001_eeg.xdf,Unicorn,216628,866.512,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P9_ses-S9_task-Default_run-001_eeg.xdf,Unicorn,217985,871.94,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session001.xdf,UnicornEEG,231470,925.88,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session002.xdf,Unicorn,219804,879.216,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session003.xdf,unicorn,219597,878.388,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session004.xdf,unicorn,219165,876.66,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session001.xdf,UnicornEEG,231470,925.88,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session002.xdf,Unicorn,219804,879.216,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session003.xdf,unicorn,219597,878.388,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session004.xdf,unicorn,219165,876.66,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-08-29_15-16-51.xdf,UnicornEEG,215923,863.692,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-08-30_14-43-32.xdf,UnicornEEG,215717,862.868,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-09-02_15-12-31.xdf,UnicornEEG,214549,858.196,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-09-03_10-17-01.xdf,UnicornEEG,215483,861.932,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-11-13_15-58.xdf,UnicornEEG,928693,3714.772,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-11-21_15-28.xdf,UnicornEEG,874131,3496.524,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-09_15-05.xdf,UnicornEEG,1145334,4581.336,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-12_14-44.xdf,UnicornEEG,782422,3129.688,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-20_15-07.xdf,UnicornEEG,825889,3303.556,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-01-17_15-19.xdf,UnicornEEG,899384,3597.536,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-01-20_14-40.xdf,UnicornEEG,912345,3649.38,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-02-03_15-54.xdf,UnicornEEG,982006,3928.024,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-02-05_17-15.xdf,UnicornEEG,950294,3801.176,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-08-29_15-16-51.xdf,UnicornEEG,215923,863.692,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-08-30_14-43-32.xdf,UnicornEEG,215717,862.868,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-09-02_15-12-31.xdf,UnicornEEG,214549,858.196,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-09-03_10-17-01.xdf,UnicornEEG,215483,861.932,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P01\eeg\sub-P01_eeg.xdf,Unicorn,236839,947.356,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P03\eeg\sub-P03_eeg.xdf,Unicorn,243698,974.792,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P06\eeg\sub-P06_eeg.xdf,Unicorn,239143,956.572,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P08\eeg\sub-P08_eeg.xdf,Unicorn,305232,1220.928,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P10\eeg\sub-P10_eeg.xdf,Unicorn,241730,966.92,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf,Unicorn_CSL_Laptop,1027149,4108.596,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf,Unicorn_CSL_LabPC,1026328,4105.312,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf,Unicorn_HCILab1,1027164,4108.656,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf,Unicorn_HCILab1,1016551,4066.204,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf,Unicorn_HCILab2,995082,3980.328,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf,Unicorn_CSL_LabPC,1001948,4007.792,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\CSL_Laptop_Group10.xdf,Unicorn_CSL_Laptop,974580,3898.32,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\CSL_Laptop_Group10.xdf,Unicorn_HCILab1,974686,3898.744,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\HCILab1-Group10.xdf,Unicorn_HCILab1,1000643,4002.572,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\HCILab1-Group10.xdf,Unicorn_HCILab2,201789,807.156,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf,Unicorn_CSL_Laptop,994381,3977.524,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf,Unicorn_HCILab2,951060,3804.24,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf,Unicorn_HCILab1,994419,3977.676,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab1-Group11.xdf,Unicorn_HCILab1,1053174,4212.696,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab1-Group11.xdf,Unicorn_HCILab2,960785,3843.14,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab2-Group11.xdf,Unicorn_HCILab2,933176,3732.704,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab2-Group11.xdf,Unicorn_HCILab1,976459,3905.836,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,Unicorn_CSL_Laptop,961614,3846.456,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,Unicorn_HCILab2,888422,3553.688,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,Unicorn_HCILab1,961549,3846.196,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,Unicorn_CSL_Laptop,973528,3894.112,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,Unicorn_HCILab2,900039,3600.156,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,Unicorn_HCILab1,973461,3893.844,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf,Unicorn_HCILab1,993656,3974.624,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf,Unicorn_HCILab2,919338,3677.352,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab2-Group12.xdf,Unicorn_HCILab2,964708,3858.832,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,Unicorn_CSL_Laptop,1025374,4101.496,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,Unicorn_CSL_LabPC,1024097,4096.388,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,Unicorn_HCILab1,1024285,4097.14,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,Unicorn_HCILab2,1002458,4009.832,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf,Unicorn_HCILab1,1077105,4308.42,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf,Unicorn_HCILab2,1016073,4064.292,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf,Unicorn_CSL_LabPC,1052029,4208.116,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf,Unicorn_CSL_Laptop,995227,3980.908,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf,Unicorn_CSL_LabPC,992670,3970.68,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf,Unicorn_HCILab1,995460,3981.84,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf,Unicorn_HCILab1,1009144,4036.576,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf,Unicorn_HCILab2,857742,3430.968,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf,Unicorn_CSL_LabPC,985886,3943.544,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf,Unicorn_CSL_Laptop,1003675,4014.7,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf,Unicorn_CSL_LabPC,1004248,4016.992,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf,Unicorn_HCILab1,966806,3867.224,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf,Unicorn_HCILab1,1038687,4154.748,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf,Unicorn_HCILab2,891323,3565.292,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf,Unicorn_CSL_LabPC,1024897,4099.588,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\CSL_Laptop_0111.xdf,Unicorn_CSL_Laptop,977014,3908.056,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\CSL_Laptop_0111.xdf,Unicorn_HCILab1,977164,3908.656,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\HCILab1-Group5.xdf,Unicorn_HCILab1,983723,3934.892,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\HCILab1-Group5.xdf,Unicorn_HCILab2,926038,3704.152,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf,Unicorn_CSL_LabPC,998320,3993.28,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf,Unicorn_CSL_Laptop,1006768,4027.072,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf,Unicorn_HCILab1,335063,1340.252,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,Unicorn_CSL_Laptop,1021297,4085.188,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,Unicorn_CSL_LabPC,1012844,4051.376,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,Unicorn_HCILab2,697542,2790.168,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,Unicorn_HCILab1,344169,1376.676,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_LabPC_1511.xdf,Unicorn_CSL_Laptop,818370,3273.48,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_Laptop_1511.xdf,Unicorn_CSL_Laptop,816368,3265.472,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab1-Group7.xdf,Unicorn_HCILab1,807802,3231.208,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab2-Group7.xdf,Unicorn_HCILab2,763718,3054.872,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf,Unicorn_CSL_LabPC,966372,3865.488,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf,Unicorn_CSL_Laptop,966972,3867.888,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf,Unicorn_HCILab1,7742,30.968,Too short
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf,Unicorn_CSL_Laptop,974360,3897.44,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf,Unicorn_CSL_LabPC,973758,3895.032,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf,Unicorn_HCILab1,973406,3893.624,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf,Unicorn_HCILab1,977210,3908.84,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf,Unicorn_HCILab2,975743,3902.972,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf,Unicorn_CSL_LabPC,5578,22.312,Too short
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\CSL_Laptop_1312.xdf,Unicorn_CSL_Laptop,964412,3857.648,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\CSL_Laptop_1312.xdf,Unicorn_HCILab1,961016,3844.064,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\HCILab1-Group9.xdf,Unicorn_HCILab1,961607,3846.428,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\HCILab1-Group9.xdf,Unicorn_HCILab2,947133,3788.532,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P01\eeg\sub-P01_eeg.xdf,Unicorn,236839,947.356,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P02\eeg\sub-P02_eeg.xdf,Unicorn,237736,950.944,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P03\eeg\sub-P03_eeg.xdf,Unicorn,243698,974.792,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P04\eeg\sub-P04_eeg.xdf,Unicorn,229299,917.196,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P05\eeg\sub-P05_eeg.xdf,Unicorn,239885,959.54,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P06\eeg\sub-P06_eeg.xdf,Unicorn,239143,956.572,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P07\eeg\sub-P07_eeg.xdf,Unicorn,256415,1025.66,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P08\eeg\sub-P08_eeg.xdf,Unicorn,305232,1220.928,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P09\eeg\sub-P09_eeg.xdf,Unicorn,289526,1158.104,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P10\eeg\sub-P10_eeg.xdf,Unicorn,241730,966.92,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P01\eeg\sub-P01_eeg.xdf,EEG,217726,870.904,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P02\eeg\sub-P02_eeg.xdf,EEG,215968,863.872,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P03\eeg\sub-P03_eeg.xdf,EEG,215697,862.788,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P04\eeg\sub-P04_eeg.xdf,EEG,217311,869.244,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P05\eeg\sub-P05_eeg.xdf,EEG,218576,874.304,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P06\eeg\sub-P06_eeg.xdf,EEG,219559,878.236,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P07\eeg\sub-P07_eeg.xdf,EEG,215683,862.732,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P08\eeg\sub-P08_eeg.xdf,EEG,217580,870.32,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P09\eeg\sub-P09_eeg.xdf,EEG,215562,862.248,Valid EEG
+unknown_order,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P10\eeg\sub-P10_eeg.xdf,EEG,215072,860.288,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-correct\ses-S0011\eeg\sub-correct_ses-S0011_task-Default_run-001_eeg.xdf,Unicorn,98324,393.296,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-correct\ses-S0012\eeg\sub-correct_ses-S0012_task-Default_run-001_eeg.xdf,Unicorn,98186,392.744,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-correct\ses-S0013\eeg\sub-correct_ses-S0013_task-Default_run-001_eeg.xdf,Unicorn,97325,389.3,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-correct\ses-S0014\eeg\sub-correct_ses-S0014_task-Default_run-001_eeg.xdf,Unicorn,95950,383.8,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-correct\ses-S005\eeg\sub-correct\order_ses-S005_task-Default_run-001_eeg.xdf,Unicorn,96440,385.76,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S001\eeg\sub-P001_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,98063,392.252,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S0010\eeg\sub-P001_ses-S0010_task-Default_run-001_eeg.xdf,Unicorn,95939,383.756,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S0015\eeg\sub-P001_ses-S0015_task-Default_run-001_eeg.xdf,Unicorn,96069,384.276,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,97440,389.76,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S003\eeg\sub-P001_ses-S003_task-Default_run-001_eeg.xdf,Unicorn,102443,409.772,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S004\eeg\sub-P001_ses-S004_task-Default_run-001_eeg.xdf,Unicorn,95814,383.256,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S006\eeg\sub-P001_ses-S006_task-Default_run-001_eeg.xdf,Unicorn,98566,394.264,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S007\eeg\sub-P001_ses-S007_task-Default_run-001_eeg.xdf,Unicorn,96437,385.748,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S008\eeg\sub-P001_ses-S008_task-Default_run-001_eeg.xdf,Unicorn,99190,396.76,Valid EEG
+known_order,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S009\eeg\sub-P001_ses-S009_task-Default_run-001_eeg.xdf,Unicorn,96320,385.28,Valid EEG

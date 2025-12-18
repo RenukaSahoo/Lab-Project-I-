@@ -1,0 +1,201 @@
+Subject_Folder,Experiment_Folder,No of xdf files,File,Streams,num_eeg,EEG_stream_name,Output,Errors,Messages
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_140225_23229_Bedtime_ISSUE.xdf,"Stream 0: Name = LabelStream, Type = Labels, Stream 1: Name = n-back, Type = Markers, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_140225_23229_Bedtime_ISSUE.xdf
+Averaged correlation across 28 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_150225_1533_WalkBankStore_ISSUE.xdf,"Stream 0: Name = LabelStream, Type = Labels, Stream 1: Name = UnicornStream, Type = Data, Stream 2: Name = n-back, Type = Markers, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 76.9239 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_150225_1533_WalkBankStore_ISSUE.xdf
+Averaged correlation across 61 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_150225_1659_Cooking.xdf,"Stream 0: Name = LabelStream, Type = Labels, Stream 1: Name = n-back, Type = Markers, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 3: Calculated effective sampling rate 76.9236 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_150225_1659_Cooking.xdf
+Averaged correlation across 73 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_160225_LyingGaming_2351.xdf,"Stream 0: Name = LabelStream, Type = Labels, Stream 1: Name = UnicornStream, Type = Data, Stream 2: Name = n-back, Type = Markers, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 76.9235 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_160225_LyingGaming_2351.xdf
+Averaged correlation across 47 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#2  17.02.25-23.02.25\01_210225_0822_CookingEating.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 76.9237 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#2  17.02.25-23.02.25\01_210225_0822_CookingEating.xdf
+Averaged correlation across 81 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_010325_1643_Cooking.xdf,"Stream 0: Name = LabelStream, Type = Labels, Stream 1: Name = n-back, Type = Markers, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 76.9235 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_010325_1643_Cooking.xdf
+Averaged correlation across 85 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_260225_1626_Writing.xdf,"Stream 0: Name = LabelStream, Type = Labels, Stream 1: Name = n-back, Type = Markers, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 76.9235 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_260225_1626_Writing.xdf
+Averaged correlation across 78 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_270225_1022_Cooking.xdf,"Stream 0: Name = LabelStream, Type = Labels, Stream 1: Name = n-back, Type = Markers, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 76.9235 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_270225_1022_Cooking.xdf
+Averaged correlation across 31 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_270225_1221_WalkPharmacyStore_ISSUE.xdf,"Stream 0: Name = LabelStream, Type = Labels, Stream 1: Name = n-back, Type = Markers, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 76.9238 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_270225_1221_WalkPharmacyStore_ISSUE.xdf
+Averaged correlation across 64 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_280225_1435_Cooking.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 76.9236 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_280225_1435_Cooking.xdf
+Averaged correlation across 64 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#4  03.03.25-09.03.25\01_040325_0740_Busride_ISSUE.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 76.9236 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#4  03.03.25-09.03.25\01_040325_0740_Busride_ISSUE.xdf
+Averaged correlation across 70 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#4  03.03.25-09.03.25\01_040325_1531_Cooking.xdf,"Stream 0: Name = LabelStream, Type = Labels, Stream 1: Name = n-back, Type = Markers, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 76.9235 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#4  03.03.25-09.03.25\01_040325_1531_Cooking.xdf
+Averaged correlation across 46 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_170325_2048_Drawing.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 76.9237 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_170325_2048_Drawing.xdf
+Averaged correlation across 65 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_170325_2219_CookingEating.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 76.9236 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_170325_2219_CookingEating.xdf
+Averaged correlation across 47 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_180325_0827_CookingEating.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 3: Calculated effective sampling rate 76.9237 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_180325_0827_CookingEating.xdf
+Averaged correlation across 80 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_200325_2110_WalkBankStore.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 3: Calculated effective sampling rate 76.9235 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_200325_2110_WalkBankStore.xdf
+Averaged correlation across 52 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_210325_2013_ReadingWatching.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 76.9236 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_210325_2013_ReadingWatching.xdf
+Averaged correlation across 82 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_220325_1909_Cooking.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 76.9235 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_220325_1909_Cooking.xdf
+Averaged correlation across 57 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_230325_2212_Gaming.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = UnicornStream, Type = Data, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 76.9236 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_230325_2212_Gaming.xdf
+Averaged correlation across 70 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings,Casual EEG Recordings: 20 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#6 24.03.25-30.03.25\01_240325_2104_WalkBankStore.xdf,"Stream 0: Name = UnicornStream, Type = Data, Stream 1: Name = LabelStream, Type = Labels, Stream 2: Name = n-back, Type = Markers, Stream 3: Name = AudioStream, Type = Audio",1,UnicornStream,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 76.9236 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#6 24.03.25-30.03.25\01_240325_2104_WalkBankStore.xdf
+Averaged correlation across 56 blocks."

@@ -1,0 +1,321 @@
+Subject_Folder,Experiment_Folder,No of xdf files,File,Streams,num_eeg,EEG_stream_name,Output,Errors,Messages
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P001_jannik\ses-S001\eeg\sub-P001_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 76.9236 Hz is different from specified rate 4800.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P001_jannik\ses-S001\eeg\sub-P001_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 26 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P001_jannik\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = MicDecibels, Type = Audio, Stream 3: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P001_jannik\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 25 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P002_Moritz\ses-S002\eeg\sub-P002_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P002_Moritz\ses-S002\eeg\sub-P002_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 27 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P003_Abdullah\ses-S001\eeg\sub-P003_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = Unicorn, Type = Data, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,Skipping empty EEG stream: Unicorn (length=0),,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P003_Abdullah\ses-S001\eeg\sub-P003_ses-S001_task-Default_run-001_eeg.xdf
+Skipping empty EEG stream: Unicorn (length=0)"
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P003_Abdullah\ses-S002\eeg\sub-P003_Abdullah_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = Unicorn, Type = Data, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 3: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P003_Abdullah\ses-S002\eeg\sub-P003_Abdullah_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 26 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P004_Anita\ses-S002\eeg\sub-P004_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P004_Anita\ses-S002\eeg\sub-P004_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 24 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P004_Anita\sub-P004\ses-S001\eeg\sub-P004_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = Unicorn, Type = Data, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P004_Anita\sub-P004\ses-S001\eeg\sub-P004_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 26 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P005_Lotta\sub-P005\ses-S001\eeg\sub-P005_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P005_Lotta\sub-P005\ses-S001\eeg\sub-P005_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 27 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P005_Lotta\sub-P005\ses-S002\eeg\sub-P005_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = Unicorn, Type = Data, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","found likely XDF file corruption (), scanning forward to next boundary chunk.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P005_Lotta\sub-P005\ses-S002\eeg\sub-P005_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 24 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P006_Julian\sub-P006\ses-S001\eeg\sub-P006_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P006_Julian\sub-P006\ses-S001\eeg\sub-P006_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 26 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P006_Julian\sub-P006\ses-S002\eeg\sub-P006_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = Unicorn, Type = Data, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P006_Julian\sub-P006\ses-S002\eeg\sub-P006_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 25 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P007_julia\sub-P007\ses-S001\eeg\sub-P007_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P007_julia\sub-P007\ses-S001\eeg\sub-P007_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 25 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P007_julia\sub-P007\ses-S002\eeg\sub-P007_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = Unicorn, Type = Data, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = MicDecibels, Type = Audio",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P007_julia\sub-P007\ses-S002\eeg\sub-P007_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 26 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P008_Aliaa\sub-P008\ses-S001\eeg\sub-P008_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = Unicorn, Type = Data, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P008_Aliaa\sub-P008\ses-S001\eeg\sub-P008_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 28 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P008_Aliaa\sub-P008\ses-S002\eeg\sub-P008_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = Unicorn, Type = Data, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P008_Aliaa\sub-P008\ses-S002\eeg\sub-P008_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 26 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S001\eeg\sub-P009_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = Unicorn, Type = Data, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S001\eeg\sub-P009_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 32 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S002\eeg\sub-P009_Jurin_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = MicDecibels, Type = Audio, Stream 3: Name = MicDecibels, Type = Audio, Stream 4: Name = Unicorn, Type = Data, Stream 5: Name = Unicorn, Type = Data",2,Unicorn,Skipping empty EEG stream: Unicorn (length=0),,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S002\eeg\sub-P009_Jurin_ses-S002_task-Default_run-001_eeg.xdf
+Skipping empty EEG stream: Unicorn (length=0)"
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S002\eeg\sub-P009_Jurin_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = MicDecibels, Type = Audio, Stream 3: Name = MicDecibels, Type = Audio, Stream 4: Name = Unicorn, Type = Data, Stream 5: Name = Unicorn, Type = Data",2,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S002\eeg\sub-P009_Jurin_ses-S002_task-Default_run-001_eeg.xdf
+Skipping empty EEG stream: Unicorn (length=0)
+Averaged correlation across 27 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P010_Nils\ses-S001\eeg\sub-P008_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = Unicorn, Type = Data, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = MicDecibels, Type = Audio",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 3: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P010_Nils\ses-S001\eeg\sub-P008_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 27 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P010_Nils\ses-S002\eeg\sub-P010_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P010_Nils\ses-S002\eeg\sub-P010_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 25 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S001\eeg\sub-P011_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = Unicorn, Type = Data, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S001\eeg\sub-P011_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 40 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S002\eeg\sub-P011_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = MicDecibels, Type = Audio, Stream 3: Name = Unicorn, Type = Data, Stream 4: Name = Unicorn, Type = Data",2,Unicorn,Skipping empty EEG stream: Unicorn (length=0),,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S002\eeg\sub-P011_ses-S002_task-Default_run-001_eeg.xdf
+Skipping empty EEG stream: Unicorn (length=0)"
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S002\eeg\sub-P011_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = MicDecibels, Type = Audio, Stream 3: Name = Unicorn, Type = Data, Stream 4: Name = Unicorn, Type = Data",2,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S002\eeg\sub-P011_ses-S002_task-Default_run-001_eeg.xdf
+Skipping empty EEG stream: Unicorn (length=0)
+Averaged correlation across 25 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P012_Jonas\ses-S001\eeg\sub-P012_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P012_Jonas\ses-S001\eeg\sub-P012_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 25 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P012_Jonas\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = Unicorn, Type = Data, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P012_Jonas\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 27 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S001\eeg\sub-P013_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S001\eeg\sub-P013_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 28 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S002\eeg\sub-P013_ses-S002_task-Default_run-001_eeg_old1.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = Unicorn, Type = Data, Stream 3: Name = Unicorn, Type = Data",2,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S002\eeg\sub-P013_ses-S002_task-Default_run-001_eeg_old1.xdf
+Averaged correlation across 32 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S002\eeg\sub-P013_ses-S002_task-Default_run-001_eeg_old1.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = Unicorn, Type = Data, Stream 3: Name = Unicorn, Type = Data",2,Unicorn,Skipping empty EEG stream: Unicorn (length=0),,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S002\eeg\sub-P013_ses-S002_task-Default_run-001_eeg_old1.xdf
+Averaged correlation across 32 blocks.
+Skipping empty EEG stream: Unicorn (length=0)"
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S001\eeg\sub-P014_cihan_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = nBack_markers, Type = markers, Stream 1: Name = Unicorn, Type = Data, Stream 2: Name = MicDecibels, Type = Audio",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S001\eeg\sub-P014_cihan_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 27 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S002\eeg\sub-P014_cihan_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data, Stream 3: Name = Unicorn, Type = Data",2,Unicorn,Skipping empty EEG stream: Unicorn (length=0),,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S002\eeg\sub-P014_cihan_ses-S002_task-Default_run-001_eeg.xdf
+Skipping empty EEG stream: Unicorn (length=0)"
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S002\eeg\sub-P014_cihan_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data, Stream 3: Name = Unicorn, Type = Data",2,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S002\eeg\sub-P014_cihan_ses-S002_task-Default_run-001_eeg.xdf
+Skipping empty EEG stream: Unicorn (length=0)
+Averaged correlation across 26 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S001\eeg\sub-P015_ses-S001_task-Default_run-001_eeg_old1.xdf,"Stream 0: Name = Unicorn, Type = Data, Stream 1: Name = MicDecibels, Type = Audio, Stream 2: Name = nBack_markers, Type = markers",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S001\eeg\sub-P015_ses-S001_task-Default_run-001_eeg_old1.xdf
+Averaged correlation across 36 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S002\eeg\sub-P015_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data, Stream 3: Name = Unicorn, Type = Data",2,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S002\eeg\sub-P015_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 26 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S002\eeg\sub-P015_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data, Stream 3: Name = Unicorn, Type = Data",2,Unicorn,Skipping empty EEG stream: Unicorn (length=0),,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S002\eeg\sub-P015_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 26 blocks.
+Skipping empty EEG stream: Unicorn (length=0)"
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S001\eeg\sub-P016_ses-S001_task-Default_run-001_eeg.xdf,"Stream 0: Name = MicDecibels, Type = Audio, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S001\eeg\sub-P016_ses-S001_task-Default_run-001_eeg.xdf
+Averaged correlation across 26 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S002\eeg\sub-P016_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = Unicorn, Type = Data, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = MicDecibels, Type = Audio, Stream 3: Name = Unicorn, Type = Data, Stream 4: Name = MicDecibels, Type = Audio",2,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S002\eeg\sub-P016_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 25 blocks."
+1,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code,gme_2425_data+code: 32 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S002\eeg\sub-P016_ses-S002_task-Default_run-001_eeg.xdf,"Stream 0: Name = Unicorn, Type = Data, Stream 1: Name = nBack_markers, Type = markers, Stream 2: Name = MicDecibels, Type = Audio, Stream 3: Name = Unicorn, Type = Data, Stream 4: Name = MicDecibels, Type = Audio",2,Unicorn,Skipping empty EEG stream: Unicorn (length=0),,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S002\eeg\sub-P016_ses-S002_task-Default_run-001_eeg.xdf
+Averaged correlation across 25 blocks.
+Skipping empty EEG stream: Unicorn (length=0)"

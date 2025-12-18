@@ -1,0 +1,211 @@
+Subject_Folder,Experiment_Folder,No of xdf files,File,Streams,num_eeg,EEG_stream_name,Output,Errors,Messages
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session001.xdf,"Stream 0: Name = UnicornEEG, Type = Data, Stream 1: Name = n-back, Type = Markers",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session001.xdf
+Averaged correlation across 15 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session002.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session002.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session003.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = unicorn, Type = Data",1,unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session003.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session004.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = unicorn, Type = Data",1,unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session004.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-08-29_15-16-51.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-08-29_15-16-51.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-08-30_14-43-32.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-08-30_14-43-32.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-09-02_15-12-31.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-09-02_15-12-31.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-09-03_10-17-01.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-09-03_10-17-01.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-11-13_15-58.xdf,"Stream 0: Name = Video, Type = Frames, Stream 1: Name = Tasks, Type = Labels, Stream 2: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-11-13_15-58.xdf
+Averaged correlation across 61 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-11-21_15-28.xdf,"Stream 0: Name = Video, Type = Frames, Stream 1: Name = Tasks, Type = Labels, Stream 2: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-11-21_15-28.xdf
+Averaged correlation across 58 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-09_15-05.xdf,"Stream 0: Name = Video, Type = Frames, Stream 1: Name = Tasks, Type = Labels, Stream 2: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-09_15-05.xdf
+Averaged correlation across 76 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-12_14-44.xdf,"Stream 0: Name = Video, Type = Frames, Stream 1: Name = UnicornEEG, Type = EEG, Stream 2: Name = Tasks, Type = Labels",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-12_14-44.xdf
+Averaged correlation across 52 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-20_15-07.xdf,"Stream 0: Name = Tasks, Type = Labels, Stream 1: Name = Video, Type = Frames, Stream 2: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-20_15-07.xdf
+Averaged correlation across 55 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-01-17_15-19.xdf,"Stream 0: Name = Tasks, Type = Labels, Stream 1: Name = Video, Type = Frames, Stream 2: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-01-17_15-19.xdf
+Averaged correlation across 59 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-01-20_14-40.xdf,"Stream 0: Name = Video, Type = Frames, Stream 1: Name = Tasks, Type = Labels, Stream 2: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-01-20_14-40.xdf
+Averaged correlation across 60 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-02-03_15-54.xdf,"Stream 0: Name = Video, Type = Frames, Stream 1: Name = Tasks, Type = Labels, Stream 2: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-02-03_15-54.xdf
+Averaged correlation across 65 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-02-05_17-15.xdf,"Stream 0: Name = Tasks, Type = Labels, Stream 1: Name = Video, Type = Frames, Stream 2: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-02-05_17-15.xdf
+Averaged correlation across 63 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-08-29_15-16-51.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-08-29_15-16-51.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-08-30_14-43-32.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-08-30_14-43-32.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-09-02_15-12-31.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-09-02_15-12-31.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz,Yeliz: 21 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-09-03_10-17-01.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = UnicornEEG, Type = EEG",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-09-03_10-17-01.xdf
+Averaged correlation across 14 blocks."

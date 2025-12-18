@@ -1,0 +1,844 @@
+Subject_Folder,Experiment_Folder,No of xdf files,File,Streams,num_eeg,EEG_stream_name,Output,Errors,Messages
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf
+Averaged correlation across 68 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf
+Averaged correlation across 68 blocks.
+Averaged correlation across 68 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf
+Averaged correlation across 68 blocks.
+Averaged correlation across 68 blocks.
+Averaged correlation across 68 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf
+Averaged correlation across 67 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf
+Averaged correlation across 67 blocks.
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf
+Averaged correlation across 67 blocks.
+Averaged correlation across 66 blocks.
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\CSL_Laptop_Group10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab1, Type = EEG",2,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 16.8061 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\CSL_Laptop_Group10.xdf
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\CSL_Laptop_Group10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab1, Type = EEG",2,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 16.8061 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\CSL_Laptop_Group10.xdf
+Averaged correlation across 64 blocks.
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\HCILab1-Group10.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\HCILab1-Group10.xdf
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\HCILab1-Group10.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\HCILab1-Group10.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 13 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 63 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 63 blocks.
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab1-Group11.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab1-Group11.xdf
+Averaged correlation across 70 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab1-Group11.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab1-Group11.xdf
+Averaged correlation across 70 blocks.
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab2-Group11.xdf,"Stream 0: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab2, Type = EEG, Stream 2: Name = Unicorn_HCILab1, Type = EEG",2,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 26.4332 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab2-Group11.xdf
+Averaged correlation across 62 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab2-Group11.xdf,"Stream 0: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab2, Type = EEG, Stream 2: Name = Unicorn_HCILab1, Type = EEG",2,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 26.4332 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab2-Group11.xdf
+Averaged correlation across 62 blocks.
+Averaged correlation across 65 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,"Stream 0: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 1: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 2: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 3: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_CSL_LabPC,Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0),Stream 1: Calculated effective sampling rate 26.4242 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)"
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,"Stream 0: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 1: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 2: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 3: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 26.4242 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,"Stream 0: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 1: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 2: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 3: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 26.4242 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)
+Averaged correlation across 64 blocks.
+Averaged correlation across 59 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,"Stream 0: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 1: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 2: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 3: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 26.4242 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)
+Averaged correlation across 64 blocks.
+Averaged correlation across 59 blocks.
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 6: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 6: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 6: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_CSL_LabPC,Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0),Stream 6: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf
+Averaged correlation across 64 blocks.
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)"
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 6: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 6: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf
+Averaged correlation across 64 blocks.
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)
+Averaged correlation across 60 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 6: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 6: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf
+Averaged correlation across 64 blocks.
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)
+Averaged correlation across 60 blocks.
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 7: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG",3,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 7: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 61 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG",3,Unicorn_CSL_LabPC,Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0),Stream 7: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 61 blocks.
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)"
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab2-Group12.xdf,"Stream 0: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab2, Type = EEG, Stream 2: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab2-Group12.xdf
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab2-Group12.xdf,"Stream 0: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab2, Type = EEG, Stream 2: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_CSL_LabPC,Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0),Stream 2: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab2-Group12.xdf
+Averaged correlation across 64 blocks.
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)"
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG, Stream 6: Name = Unicorn_HCILab2, Type = EEG, Stream 7: Name = OBS_HCILab2, Type = OBS frame numbers",4,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate 23.8180 Hz is different from specified rate 30.0000 Hz.
+Stream 6: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf
+Averaged correlation across 68 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG, Stream 6: Name = Unicorn_HCILab2, Type = EEG, Stream 7: Name = OBS_HCILab2, Type = OBS frame numbers",4,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate 23.8180 Hz is different from specified rate 30.0000 Hz.
+Stream 6: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf
+Averaged correlation across 68 blocks.
+Averaged correlation across 68 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG, Stream 6: Name = Unicorn_HCILab2, Type = EEG, Stream 7: Name = OBS_HCILab2, Type = OBS frame numbers",4,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate 23.8180 Hz is different from specified rate 30.0000 Hz.
+Stream 6: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf
+Averaged correlation across 68 blocks.
+Averaged correlation across 68 blocks.
+Averaged correlation across 68 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG, Stream 6: Name = Unicorn_HCILab2, Type = EEG, Stream 7: Name = OBS_HCILab2, Type = OBS frame numbers",4,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate 23.8180 Hz is different from specified rate 30.0000 Hz.
+Stream 6: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf
+Averaged correlation across 68 blocks.
+Averaged correlation across 68 blocks.
+Averaged correlation across 68 blocks.
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf,"Stream 0: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab1, Type = EEG, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 6: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 7: Calculated effective sampling rate -0.5664 Hz is different from specified rate 30.0000 Hz.
+Stream 8: Calculated effective sampling rate -45.3639 Hz is different from specified rate 250.0000 Hz.
+Stream 4: Calculated effective sampling rate -43.3404 Hz is different from specified rate 250.0000 Hz.
+Stream 6: Calculated effective sampling rate -0.1575 Hz is different from specified rate 30.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf
+Averaged correlation across 71 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf,"Stream 0: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab1, Type = EEG, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 6: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 7: Calculated effective sampling rate -0.5664 Hz is different from specified rate 30.0000 Hz.
+Stream 8: Calculated effective sampling rate -45.3639 Hz is different from specified rate 250.0000 Hz.
+Stream 4: Calculated effective sampling rate -43.3404 Hz is different from specified rate 250.0000 Hz.
+Stream 6: Calculated effective sampling rate -0.1575 Hz is different from specified rate 30.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf
+Averaged correlation across 71 blocks.
+Averaged correlation across 67 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf,"Stream 0: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab1, Type = EEG, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 6: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 7: Calculated effective sampling rate -0.5664 Hz is different from specified rate 30.0000 Hz.
+Stream 8: Calculated effective sampling rate -45.3639 Hz is different from specified rate 250.0000 Hz.
+Stream 4: Calculated effective sampling rate -43.3404 Hz is different from specified rate 250.0000 Hz.
+Stream 6: Calculated effective sampling rate -0.1575 Hz is different from specified rate 30.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf
+Averaged correlation across 71 blocks.
+Averaged correlation across 67 blocks.
+Averaged correlation across 70 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 3: Calculated effective sampling rate 15.2534 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 3: Calculated effective sampling rate 15.2534 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 3: Calculated effective sampling rate 15.2534 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 66 blocks.
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf,"Stream 0: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab1, Type = EEG, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 5: Calculated effective sampling rate 14.5717 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf
+Averaged correlation across 67 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf,"Stream 0: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab1, Type = EEG, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 5: Calculated effective sampling rate 14.5717 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf
+Averaged correlation across 67 blocks.
+Averaged correlation across 57 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf,"Stream 0: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab1, Type = EEG, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 5: Calculated effective sampling rate 14.5717 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf
+Averaged correlation across 67 blocks.
+Averaged correlation across 57 blocks.
+Averaged correlation across 65 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf,"Stream 0: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 1: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 6: Calculated effective sampling rate 14.5166 Hz is different from specified rate 30.0000 Hz.
+Stream 3: Calculated effective sampling rate 215.7338 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf,"Stream 0: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 1: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 6: Calculated effective sampling rate 14.5166 Hz is different from specified rate 30.0000 Hz.
+Stream 3: Calculated effective sampling rate 215.7338 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf,"Stream 0: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 1: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 6: Calculated effective sampling rate 14.5166 Hz is different from specified rate 30.0000 Hz.
+Stream 3: Calculated effective sampling rate 215.7338 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 66 blocks.
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf
+Averaged correlation across 69 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf
+Averaged correlation across 69 blocks.
+Averaged correlation across 59 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf
+Averaged correlation across 69 blocks.
+Averaged correlation across 59 blocks.
+Averaged correlation across 68 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\CSL_Laptop_0111.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab1, Type = EEG",2,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 16.6432 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\CSL_Laptop_0111.xdf
+Averaged correlation across 65 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\CSL_Laptop_0111.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab1, Type = EEG",2,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 16.6432 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\CSL_Laptop_0111.xdf
+Averaged correlation across 65 blocks.
+Averaged correlation across 65 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\HCILab1-Group5.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\HCILab1-Group5.xdf
+Averaged correlation across 65 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\HCILab1-Group5.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\HCILab1-Group5.xdf
+Averaged correlation across 65 blocks.
+Averaged correlation across 61 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf,"Stream 0: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 2: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 3: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 17.3545 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf
+Averaged correlation across 66 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf,"Stream 0: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 2: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 3: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 17.3545 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 67 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf,"Stream 0: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 2: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 3: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 4: Calculated effective sampling rate 17.3545 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf
+Averaged correlation across 66 blocks.
+Averaged correlation across 67 blocks.
+Averaged correlation across 22 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 6: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 7: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf
+Averaged correlation across 68 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 6: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 7: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf
+Averaged correlation across 68 blocks.
+Averaged correlation across 67 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 6: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 7: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf
+Averaged correlation across 68 blocks.
+Averaged correlation across 67 blocks.
+Averaged correlation across 46 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 4: Name = Unicorn_HCILab2, Type = EEG, Stream 5: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 6: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 7: Name = Unicorn_HCILab1, Type = EEG",4,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf
+Averaged correlation across 68 blocks.
+Averaged correlation across 67 blocks.
+Averaged correlation across 46 blocks.
+Averaged correlation across 22 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_LabPC_1511.xdf,"Stream 0: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 2: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 3: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_CSL_LabPC,Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0),"Stream 4: Calculated effective sampling rate 222.6318 Hz is different from specified rate 250.0000 Hz.
+Stream 1: Calculated effective sampling rate 14.7417 Hz is different from specified rate 30.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_LabPC_1511.xdf
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)"
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_LabPC_1511.xdf,"Stream 0: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 2: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 3: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 4: Calculated effective sampling rate 222.6318 Hz is different from specified rate 250.0000 Hz.
+Stream 1: Calculated effective sampling rate 14.7417 Hz is different from specified rate 30.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_LabPC_1511.xdf
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)
+Averaged correlation across 54 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_Laptop_1511.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers",2,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 1: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_Laptop_1511.xdf
+Averaged correlation across 54 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_Laptop_1511.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 3: Name = OBS_CSL_LabPC, Type = OBS frame numbers",2,Unicorn_CSL_LabPC,Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0),Stream 1: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_Laptop_1511.xdf
+Averaged correlation across 54 blocks.
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)"
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab1-Group7.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers",1,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 3: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab1-Group7.xdf
+Averaged correlation across 53 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab2-Group7.xdf,"Stream 0: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab2, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG",2,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab2-Group7.xdf
+Averaged correlation across 50 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab2-Group7.xdf,"Stream 0: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 1: Name = Unicorn_HCILab2, Type = EEG, Stream 2: Name = Unicorn_CSL_LabPC, Type = EEG",2,Unicorn_CSL_LabPC,Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0),,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab2-Group7.xdf
+Averaged correlation across 50 blocks.
+Skipping empty EEG stream: Unicorn_CSL_LabPC (length=0)"
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf,"Stream 0: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 2: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate 25.5533 Hz is different from specified rate 30.0000 Hz.
+Stream 3: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf,"Stream 0: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 2: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate 25.5533 Hz is different from specified rate 30.0000 Hz.
+Stream 3: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf
+Averaged correlation across 64 blocks.
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf,"Stream 0: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 2: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate 25.5533 Hz is different from specified rate 30.0000 Hz.
+Stream 3: Calculated effective sampling rate 0.0000 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf
+Averaged correlation across 64 blocks.
+Averaged correlation across 64 blocks.
+Data shorter than one block (7742 samples). Skipping correlation."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate -1.0738 Hz is different from specified rate 30.0000 Hz.
+Stream 3: Calculated effective sampling rate -0.8356 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate -1.0738 Hz is different from specified rate 30.0000 Hz.
+Stream 3: Calculated effective sampling rate -0.8356 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf
+Averaged correlation across 64 blocks.
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf,"Stream 0: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 1: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 2: Name = OBS_CSL_LabPC, Type = OBS frame numbers, Stream 3: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 4: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 5: Name = Unicorn_HCILab1, Type = EEG",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64","Stream 2: Calculated effective sampling rate -1.0738 Hz is different from specified rate 30.0000 Hz.
+Stream 3: Calculated effective sampling rate -0.8356 Hz is different from specified rate 250.0000 Hz.","Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf
+Averaged correlation across 64 blocks.
+Averaged correlation across 64 blocks.
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf
+Averaged correlation across 65 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf
+Averaged correlation across 65 blocks.
+Averaged correlation across 65 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab2, Type = EEG, Stream 4: Name = Unicorn_CSL_LabPC, Type = EEG, Stream 5: Name = OBS_CSL_Laptop, Type = OBS frame numbers",3,Unicorn_CSL_LabPC,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf
+Averaged correlation across 65 blocks.
+Averaged correlation across 65 blocks.
+Data shorter than one block (5578 samples). Skipping correlation."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\CSL_Laptop_1312.xdf,"Stream 0: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 1: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab1, Type = EEG",2,Unicorn_CSL_Laptop,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 26.1407 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\CSL_Laptop_1312.xdf
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\CSL_Laptop_1312.xdf,"Stream 0: Name = Unicorn_CSL_Laptop, Type = EEG, Stream 1: Name = OBS_CSL_Laptop, Type = OBS frame numbers, Stream 2: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 3: Name = Unicorn_HCILab1, Type = EEG",2,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",Stream 2: Calculated effective sampling rate 26.1407 Hz is different from specified rate 30.0000 Hz.,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\CSL_Laptop_1312.xdf
+Averaged correlation across 64 blocks.
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\HCILab1-Group9.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_HCILab1,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\HCILab1-Group9.xdf
+Averaged correlation across 64 blocks."
+3,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL,WPI-LL: 30 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\HCILab1-Group9.xdf,"Stream 0: Name = Unicorn_HCILab1, Type = EEG, Stream 1: Name = OBS_HCILab1, Type = OBS frame numbers, Stream 2: Name = Unicorn_HCILab2, Type = EEG, Stream 3: Name = OBS_HCILab2, Type = OBS frame numbers, Stream 4: Name = OBS_CSL_Laptop, Type = OBS frame numbers",2,Unicorn_HCILab2,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\HCILab1-Group9.xdf
+Averaged correlation across 64 blocks.
+Averaged correlation across 63 blocks."

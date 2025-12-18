@@ -1,0 +1,41 @@
+Subject_Folder,Experiment_Folder,No of xdf files,File,Streams,num_eeg,EEG_stream_name,Output,Errors,Messages
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa,Jeusa: 4 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session001.xdf,"Stream 0: Name = UnicornEEG, Type = Data, Stream 1: Name = n-back, Type = Markers",1,UnicornEEG,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session001.xdf
+Averaged correlation across 15 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa,Jeusa: 4 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session002.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = Unicorn, Type = Data",1,Unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session002.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa,Jeusa: 4 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session003.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = unicorn, Type = Data",1,unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session003.xdf
+Averaged correlation across 14 blocks."
+2,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa,Jeusa: 4 XDF files found,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session004.xdf,"Stream 0: Name = n-back, Type = Markers, Stream 1: Name = unicorn, Type = Data",1,unicorn,"Empty cells: Ch0    0
+Ch1    0
+Ch2    0
+Ch3    0
+Ch4    0
+Ch5    0
+Ch6    0
+Ch7    0
+dtype: int64",,"Checking file:D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session004.xdf
+Averaged correlation across 14 blocks."

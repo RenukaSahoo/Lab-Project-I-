@@ -1,0 +1,11 @@
+experiment,file,eeg_name,permutation,corr_before,corr_after,needs_reordering
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S001\eeg\sub-P001_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(0, 5, 6, 7, 1, 4, 3, 2)",-0.008164155,0.755645812,TRUE
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S0010\eeg\sub-P001_ses-S0010_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 1, 6, 4, 2, 0, 5)",0.692904606,0.750052424,TRUE
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S0015\eeg\sub-P001_ses-S0015_task-Default_run-001_eeg.xdf,Unicorn,"(0, 3, 7, 5, 4, 6, 1, 2)",0.291633019,0.72214154,TRUE
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(3, 7, 4, 6, 0, 2, 1, 5)",-0.129974486,0.828925123,TRUE
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S003\eeg\sub-P001_ses-S003_task-Default_run-001_eeg.xdf,Unicorn,"(1, 5, 7, 6, 0, 2, 3, 4)",-0.080146852,0.871408735,TRUE
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S004\eeg\sub-P001_ses-S004_task-Default_run-001_eeg.xdf,Unicorn,"(3, 7, 4, 6, 0, 2, 1, 5)",-0.107663499,0.890288744,TRUE
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S006\eeg\sub-P001_ses-S006_task-Default_run-001_eeg.xdf,Unicorn,"(6, 4, 5, 7, 1, 0, 2, 3)",-0.23647356,0.754505637,TRUE
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S007\eeg\sub-P001_ses-S007_task-Default_run-001_eeg.xdf,Unicorn,"(2, 0, 7, 6, 1, 5, 3, 4)",-0.2810003,0.77366115,TRUE
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S008\eeg\sub-P001_ses-S008_task-Default_run-001_eeg.xdf,Unicorn,"(2, 0, 6, 4, 7, 1, 3, 5)",-0.257959086,0.768718407,TRUE
+sub-incorrect,D:\A. NEUROSCIENCE\CSL LAB Project I\New collected data\data Harmonisation\sub-incorrect\ses-S009\eeg\sub-P001_ses-S009_task-Default_run-001_eeg.xdf,Unicorn,"(2, 7, 1, 6, 4, 5, 3, 0)",0.609413895,0.75073558,TRUE

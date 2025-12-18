@@ -1,0 +1,208 @@
+experiment,file,eeg_name,permutation,corr_before,corr_after,needs_reordering
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_02\recording_busy.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.028971075,0.792017009,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_03\recording_busy.xdf,Unicorn,"(3, 7, 4, 5, 6, 2, 0, 1)",0.143359405,0.76144774,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_04\recording_busy.xdf,Unicorn,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.034351678,0.765892102,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_05\recording_busy.xdf,Unicorn,"(4, 1, 5, 2, 0, 6, 7, 3)",0.383301779,0.797875645,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_07\recording_busy.xdf,Unicorn,"(5, 2, 1, 3, 0, 6, 7, 4)",0.303729439,0.867822873,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_09\recording_busy.xdf,Unicorn,"(7, 5, 4, 6, 1, 3, 0, 2)",-0.279219665,0.63507443,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_11\recording_busy.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.067321945,0.688893456,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_13\recording_busy.xdf,Unicorn,"(5, 1, 4, 2, 0, 6, 7, 3)",0.20254984,0.847632996,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_22\recording_busy.xdf,Unicorn,"(5, 6, 4, 7, 3, 1, 0, 2)",-0.281393516,0.795305597,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_68\recording_busy.xdf,Unicorn,"(5, 0, 4, 1, 2, 6, 7, 3)",-0.234613247,0.783388292,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_69\recording_busy.xdf,Unicorn,"(2, 3, 1, 5, 6, 0, 4, 7)",0.300486886,0.721160792,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_77\recording_busy.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.021521267,0.825996523,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\busy\sub_99\recording_busy.xdf,Unicorn,"(0, 1, 2, 4, 6, 3, 7, 5)",0.120191258,0.715247295,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_02\recording_calm.xdf,Unicorn,"(7, 2, 4, 3, 0, 6, 5, 1)",-0.042683197,0.840477236,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_03\recording_calm.xdf,Unicorn,"(7, 2, 4, 3, 0, 5, 6, 1)",0.298315837,0.81600401,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_04\recording_calm.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.115699901,0.834271197,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_05\recording_calm.xdf,Unicorn,"(4, 0, 5, 2, 1, 6, 7, 3)",0.030496672,0.593246411,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_07\recording_calm.xdf,Unicorn,"(5, 1, 4, 2, 0, 7, 6, 3)",0.169931646,0.799843297,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_09\recording_calm.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.01847458,0.89630552,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_11\recording_calm.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.086848272,0.770021608,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_13\recording_calm.xdf,Unicorn,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.019793647,0.837600088,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_22\recording_calm.xdf,Unicorn,"(5, 1, 4, 2, 0, 6, 7, 3)",0.001813551,0.949422735,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_68\recording_calm.xdf,Unicorn,"(0, 2, 3, 1, 6, 4, 7, 5)",0.296400718,0.6258927,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_69\recording_calm.xdf,Unicorn,"(5, 1, 4, 2, 0, 6, 7, 3)",0.237752987,0.897595093,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_77\recording_calm.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.025645201,0.857505994,TRUE
+BPR_GRP_0(1),D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\BPR_GRP_0(1)\BPR_GRP_0\Data\calm\sub_99\recording_calm.xdf,Unicorn,"(3, 7, 2, 4, 6, 0, 1, 5)",-0.013988944,0.777017799,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_140225_23229_Bedtime_ISSUE.xdf,UnicornStream,"(1, 5, 2, 7, 6, 0, 3, 4)",0.482947578,0.661377163,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_150225_1533_WalkBankStore_ISSUE.xdf,UnicornStream,"(0, 5, 2, 4, 6, 1, 3, 7)",0.132111358,0.702710913,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_150225_1659_Cooking.xdf,UnicornStream,"(3, 7, 2, 5, 6, 0, 1, 4)",0.253713296,0.711917124,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#1 10.02.25-16.02.25\01_160225_LyingGaming_2351.xdf,UnicornStream,"(5, 2, 4, 1, 3, 6, 7, 0)",-0.245459467,0.662673972,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#2  17.02.25-23.02.25\01_210225_0822_CookingEating.xdf,UnicornStream,"(0, 5, 2, 6, 4, 3, 1, 7)",0.506012415,0.665232809,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_010325_1643_Cooking.xdf,UnicornStream,"(1, 4, 3, 5, 6, 2, 0, 7)",0.025932962,0.682328161,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_260225_1626_Writing.xdf,UnicornStream,"(4, 1, 5, 2, 0, 6, 7, 3)",-0.047054797,0.793318246,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_270225_1022_Cooking.xdf,UnicornStream,"(4, 2, 6, 1, 0, 7, 5, 3)",0.158952985,0.602202413,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_270225_1221_WalkPharmacyStore_ISSUE.xdf,UnicornStream,"(4, 0, 7, 3, 2, 6, 5, 1)",0.211276931,0.677786038,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#3  24.02.25-02.03.25\01_280225_1435_Cooking.xdf,UnicornStream,"(2, 7, 1, 4, 6, 3, 0, 5)",-0.125366197,0.77418318,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#4  03.03.25-09.03.25\01_040325_0740_Busride_ISSUE.xdf,UnicornStream,"(3, 6, 0, 2, 5, 1, 4, 7)",0.386603967,0.581469561,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#4  03.03.25-09.03.25\01_040325_1531_Cooking.xdf,UnicornStream,"(1, 5, 2, 4, 6, 0, 3, 7)",0.095443016,0.860564216,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_170325_2048_Drawing.xdf,UnicornStream,"(6, 1, 4, 2, 0, 5, 7, 3)",-0.057526091,0.858583983,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_170325_2219_CookingEating.xdf,UnicornStream,"(0, 7, 2, 4, 5, 3, 1, 6)",-0.212688121,0.661704659,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_180325_0827_CookingEating.xdf,UnicornStream,"(1, 5, 2, 4, 6, 0, 3, 7)",0.24003957,0.695670108,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_200325_2110_WalkBankStore.xdf,UnicornStream,"(7, 3, 4, 2, 0, 6, 5, 1)",0.166871404,0.822071006,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_210325_2013_ReadingWatching.xdf,UnicornStream,"(1, 4, 2, 5, 6, 3, 0, 7)",0.179440031,0.80185772,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_220325_1909_Cooking.xdf,UnicornStream,"(3, 7, 2, 4, 6, 1, 0, 5)",0.202595617,0.775438459,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#5 17.03.25-24.03.25\01_230325_2212_Gaming.xdf,UnicornStream,"(6, 3, 7, 2, 0, 4, 5, 1)",0.016686053,0.866341405,TRUE
+Casual EEG Recordings,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\Casual EEG Recordings\Casual EEG Recordings\#6 24.03.25-30.03.25\01_240325_2104_WalkBankStore.xdf,UnicornStream,"(4, 3, 7, 2, 0, 5, 6, 1)",0.474633279,0.720728351,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P01\eeg\sub-P01_eeg.xdf,Unicorn,"(0, 1, 7, 3, 4, 6, 5, 2)",0.715692748,0.732972168,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P02\eeg\sub-P02_eeg.xdf,Unicorn,"(7, 1, 5, 2, 3, 6, 0, 4)",0.080553792,0.666153408,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P03\eeg\sub-P03_eeg.xdf,Unicorn,"(0, 1, 5, 7, 6, 4, 2, 3)",0.088822093,0.7524765,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P04\eeg\sub-P04_eeg.xdf,Unicorn,"(3, 1, 7, 2, 0, 6, 4, 5)",0.480945838,0.826495082,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P05\eeg\sub-P05_eeg.xdf,Unicorn,"(2, 7, 1, 3, 6, 5, 0, 4)",0.144468829,0.812887431,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P06\eeg\sub-P06_eeg.xdf,Unicorn,"(3, 6, 5, 2, 1, 7, 0, 4)",-0.180208079,0.764077829,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P07\eeg\sub-P07_eeg.xdf,Unicorn,"(6, 5, 1, 0, 3, 2, 7, 4)",-0.340672225,0.893301912,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P08\eeg\sub-P08_eeg.xdf,Unicorn,"(1, 6, 2, 7, 4, 5, 0, 3)",0.620364167,0.829935115,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P09\eeg\sub-P09_eeg.xdf,Unicorn,"(6, 2, 5, 7, 0, 4, 1, 3)",0.111743069,0.914667827,TRUE
+EEG-Audio-Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG-Audio-Context\eeg_data\P10\eeg\sub-P10_eeg.xdf,Unicorn,"(6, 7, 4, 3, 5, 2, 1, 0)",0.054273385,0.790663687,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P01\eeg\sub-P01_eeg.xdf,EEG,"(3, 2, 7, 5, 0, 6, 1, 4)",-0.064406577,0.714597054,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P02\eeg\sub-P02_eeg.xdf,EEG,"(7, 2, 4, 3, 0, 6, 5, 1)",0.233736758,0.781034465,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P03\eeg\sub-P03_eeg.xdf,EEG,"(5, 3, 1, 0, 6, 7, 4, 2)",0.222219572,0.628964266,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P04\eeg\sub-P04_eeg.xdf,EEG,"(7, 3, 5, 2, 6, 4, 0, 1)",0.085842168,0.738632558,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P05\eeg\sub-P05_eeg.xdf,EEG,"(1, 5, 2, 6, 4, 3, 0, 7)",0.649470943,0.858133299,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P06\eeg\sub-P06_eeg.xdf,EEG,"(6, 0, 2, 7, 3, 5, 4, 1)",0.240331227,0.794632492,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P07\eeg\sub-P07_eeg.xdf,EEG,"(0, 2, 4, 1, 6, 3, 7, 5)",0.075517814,0.87233161,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P08\eeg\sub-P08_eeg.xdf,EEG,"(5, 1, 7, 0, 4, 6, 2, 3)",0.660145827,0.826483748,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P09\eeg\sub-P09_eeg.xdf,EEG,"(7, 2, 3, 1, 6, 4, 5, 0)",0.297898078,0.720049427,TRUE
+EEG_Video_Context,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\4\EEG_Video_Context\eeg_data\P10\eeg\sub-P10_eeg.xdf,EEG,"(0, 1, 3, 2, 4, 5, 7, 6)",0.704207999,0.733921461,TRUE
+Jeusa,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session001.xdf,UnicornEEG,"(3, 7, 1, 2, 6, 0, 5, 4)",0.438524428,0.638322356,TRUE
+Jeusa,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session002.xdf,Unicorn,"(6, 3, 7, 5, 0, 2, 4, 1)",0.353676365,0.851284623,TRUE
+Jeusa,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session003.xdf,unicorn,"(7, 6, 3, 2, 5, 0, 1, 4)",0.200518659,0.764598441,TRUE
+Jeusa,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Jeusa\n-back\n-back-session004.xdf,unicorn,"(6, 1, 7, 3, 0, 4, 2, 5)",0.063927023,0.732022997,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf,Unicorn_CSL_Laptop,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.078014662,0.853828135,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf,Unicorn_CSL_LabPC,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.069493141,0.914955112,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\CSL_02_10.xdf,Unicorn_HCILab1,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.050225627,0.853271463,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf,Unicorn_HCILab1,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.053293216,0.848959047,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf,Unicorn_HCILab2,"(7, 3, 4, 2, 0, 5, 6, 1)",0.18006653,0.835270777,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_1\HCILab1-Group2.xdf,Unicorn_CSL_LabPC,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.069931861,0.915366547,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\CSL_Laptop_Group10.xdf,Unicorn_CSL_Laptop,"(5, 1, 4, 2, 0, 6, 7, 3)",0.098552028,0.941073434,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\CSL_Laptop_Group10.xdf,Unicorn_HCILab1,"(5, 1, 4, 2, 0, 7, 6, 3)",-0.008751036,0.957983401,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\HCILab1-Group10.xdf,Unicorn_HCILab1,"(5, 1, 4, 2, 0, 7, 6, 3)",0.002091072,0.958570729,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_10\HCILab1-Group10.xdf,Unicorn_HCILab2,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.076725374,0.853946349,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf,Unicorn_CSL_Laptop,"(5, 7, 4, 3, 6, 1, 0, 2)",0.140871189,0.72940549,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf,Unicorn_HCILab2,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.057322515,0.915735288,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\CSL_Laptop_Group11.xdf,Unicorn_HCILab1,"(5, 4, 1, 7, 6, 2, 0, 3)",0.128538532,0.747166418,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab1-Group11.xdf,Unicorn_HCILab1,"(5, 4, 1, 7, 6, 2, 0, 3)",0.128129794,0.75102579,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab1-Group11.xdf,Unicorn_HCILab2,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.061171824,0.915376992,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab2-Group11.xdf,Unicorn_HCILab2,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.05650416,0.917858714,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_11\HCILab2-Group11.xdf,Unicorn_HCILab1,"(5, 4, 1, 7, 6, 2, 0, 3)",0.128749063,0.746592687,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,Unicorn_CSL_Laptop,"(7, 3, 4, 2, 0, 6, 5, 1)",0.102836231,0.94631058,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,Unicorn_HCILab2,"(7, 3, 4, 2, 0, 6, 5, 1)",0.089314612,0.874929504,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_LabPC_group12.xdf,Unicorn_HCILab1,"(4, 1, 5, 2, 0, 6, 7, 3)",0.123035975,0.921107734,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,Unicorn_CSL_Laptop,"(7, 3, 4, 2, 0, 6, 5, 1)",0.098835357,0.946324823,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,Unicorn_HCILab2,"(7, 3, 4, 2, 0, 6, 5, 1)",0.091689817,0.875282623,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\CSL_Laptop_group12.xdf,Unicorn_HCILab1,"(4, 1, 5, 2, 0, 6, 7, 3)",0.122277125,0.919816819,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf,Unicorn_HCILab1,"(4, 1, 5, 2, 0, 6, 7, 3)",0.12610105,0.921169626,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab1-Group12.xdf,Unicorn_HCILab2,"(7, 3, 4, 2, 0, 6, 5, 1)",0.085256118,0.876351903,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_12\HCILab2-Group12.xdf,Unicorn_HCILab2,"(7, 3, 4, 2, 0, 6, 5, 1)",0.090800904,0.877806894,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,Unicorn_CSL_Laptop,"(5, 7, 4, 6, 3, 1, 0, 2)",-0.239364315,0.737923501,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,Unicorn_CSL_LabPC,"(5, 1, 4, 2, 0, 6, 7, 3)",0.082786122,0.810120357,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,Unicorn_HCILab1,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.074961999,0.912156107,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\CSL_08_10.xdf,Unicorn_HCILab2,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.070415562,0.84527201,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf,Unicorn_HCILab1,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.063202236,0.907299788,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf,Unicorn_HCILab2,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.067175074,0.844969464,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_2\HCILab1-Group3.xdf,Unicorn_CSL_LabPC,"(5, 1, 4, 2, 0, 6, 7, 3)",0.083175987,0.809807757,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf,Unicorn_CSL_Laptop,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.031714429,0.904322936,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf,Unicorn_CSL_LabPC,"(7, 3, 4, 2, 0, 6, 5, 1)",0.122946223,0.892209857,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\CSL_01_10.xdf,Unicorn_HCILab1,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.083136426,0.889445555,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf,Unicorn_HCILab1,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.084127145,0.890207314,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf,Unicorn_HCILab2,"(5, 1, 4, 2, 0, 6, 7, 3)",0.03488536,0.715048849,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_3\HCILab1-Group1.xdf,Unicorn_CSL_LabPC,"(7, 3, 4, 2, 0, 6, 5, 1)",0.122911336,0.893052778,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf,Unicorn_CSL_Laptop,"(5, 1, 4, 2, 0, 6, 7, 3)",0.027317475,0.893301243,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf,Unicorn_CSL_LabPC,"(5, 1, 4, 2, 0, 6, 7, 3)",0.042946211,0.899372642,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\CSL_Laptop_1010.xdf,Unicorn_HCILab1,"(5, 1, 4, 2, 0, 6, 7, 3)",0.037064001,0.898493549,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf,Unicorn_HCILab1,"(5, 1, 4, 2, 0, 6, 7, 3)",0.027205023,0.899586057,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf,Unicorn_HCILab2,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.166460942,0.750035132,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_4\HCILab1-Group4.xdf,Unicorn_CSL_LabPC,"(5, 1, 4, 2, 0, 6, 7, 3)",0.041943592,0.900742967,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\CSL_Laptop_0111.xdf,Unicorn_CSL_Laptop,"(6, 1, 4, 2, 0, 5, 7, 3)",-0.040867041,0.847918699,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\CSL_Laptop_0111.xdf,Unicorn_HCILab1,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.108025349,0.83784229,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\HCILab1-Group5.xdf,Unicorn_HCILab1,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.107862097,0.838020812,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_5\HCILab1-Group5.xdf,Unicorn_HCILab2,"(7, 3, 4, 2, 0, 6, 5, 1)",0.12957354,0.942877508,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf,Unicorn_CSL_LabPC,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.025156343,0.810912099,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf,Unicorn_CSL_Laptop,"(7, 3, 4, 2, 0, 6, 5, 1)",0.031304368,0.897924126,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_LabPC_0811.xdf,Unicorn_HCILab1,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.06526493,0.88431321,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,Unicorn_CSL_Laptop,"(7, 3, 4, 2, 0, 6, 5, 1)",0.032047631,0.898271349,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,Unicorn_CSL_LabPC,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.028744511,0.810227693,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,Unicorn_HCILab2,"(5, 1, 4, 2, 0, 6, 7, 3)",0.083303439,0.889281072,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_6\CSL_Laptop_0811.xdf,Unicorn_HCILab1,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.066242212,0.884994702,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_LabPC_1511.xdf,Unicorn_CSL_Laptop,"(7, 3, 4, 2, 0, 6, 5, 1)",0.079528568,0.899642987,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\CSL_Laptop_1511.xdf,Unicorn_CSL_Laptop,"(7, 3, 4, 2, 0, 6, 5, 1)",0.079310164,0.898998904,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab1-Group7.xdf,Unicorn_HCILab1,"(7, 3, 4, 2, 0, 5, 6, 1)",-0.159609848,0.761325826,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_7\HCILab2-Group7.xdf,Unicorn_HCILab2,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.08469249,0.896743893,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf,Unicorn_CSL_LabPC,"(5, 1, 4, 2, 0, 6, 7, 3)",0.018362662,0.851377165,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_LabPC_1811.xdf,Unicorn_CSL_Laptop,"(5, 1, 4, 2, 0, 6, 7, 3)",0.042817605,0.939332906,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf,Unicorn_CSL_Laptop,"(5, 1, 4, 2, 0, 6, 7, 3)",0.04356672,0.938243168,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf,Unicorn_CSL_LabPC,"(5, 1, 4, 2, 0, 6, 7, 3)",0.018286855,0.849925334,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\CSL_Laptop_1811.xdf,Unicorn_HCILab1,"(0, 1, 4, 2, 3, 5, 6, 7)",-0.139012569,0.671686992,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf,Unicorn_HCILab1,"(0, 1, 4, 2, 3, 5, 6, 7)",-0.139176254,0.670783775,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_8\HCILab1-Group8.xdf,Unicorn_HCILab2,"(7, 2, 4, 3, 0, 6, 5, 1)",0.017001716,0.900132677,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\CSL_Laptop_1312.xdf,Unicorn_CSL_Laptop,"(2, 7, 3, 4, 6, 0, 1, 5)",-0.014462391,0.708957648,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\CSL_Laptop_1312.xdf,Unicorn_HCILab1,"(7, 3, 4, 2, 0, 6, 5, 1)",0.031762305,0.926997172,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\HCILab1-Group9.xdf,Unicorn_HCILab1,"(7, 3, 4, 2, 0, 6, 5, 1)",0.031891368,0.927052185,TRUE
+WPI-LL,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\WPI-LL\LabRecorder-selected_9\HCILab1-Group9.xdf,Unicorn_HCILab2,"(7, 3, 4, 2, 0, 6, 5, 1)",0.005386442,0.887957243,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P10_ses-S10_task-Default_run-001_eeg.xdf,Unicorn,"(3, 5, 2, 7, 6, 0, 4, 1)",0.49085616,0.814594752,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P1_ses-S1_task-Default_run-001_eeg.xdf,Unicorn,"(5, 1, 6, 7, 4, 0, 3, 2)",0.179744912,0.707887228,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P2_ses-S2_task-Default_run-001_eeg.xdf,Unicorn,"(1, 4, 6, 5, 7, 3, 0, 2)",-0.029184328,0.495354082,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P3_ses-S3_task-Default_run-001_eeg.xdf,Unicorn,"(2, 4, 1, 7, 5, 0, 3, 6)",0.203086582,0.784312445,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P4_ses-S4_task-Default_run-001_eeg.xdf,Unicorn,"(2, 1, 5, 0, 4, 6, 7, 3)",0.706281059,0.768722134,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P5_ses-S5_task-Default_run-001_eeg.xdf,Unicorn,"(6, 2, 5, 7, 4, 3, 0, 1)",0.586177706,0.679170979,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P6_ses-S6_task-Default_run-001_eeg.xdf,Unicorn,"(3, 2, 4, 1, 0, 7, 6, 5)",0.104864326,0.864636324,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P7_ses-S7_task-Default_run-001_eeg.xdf,Unicorn,"(5, 0, 2, 1, 3, 7, 4, 6)",0.080469583,0.730309951,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P8_ses-S8_task-Default_run-001_eeg.xdf,Unicorn,"(4, 2, 7, 1, 3, 5, 6, 0)",0.030398496,0.785330205,TRUE
+XDF files-N-back test-Bahar,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\XDF files-N-back test-Bahar\XDF files-N-back test-Bahar\sub-P9_ses-S9_task-Default_run-001_eeg.xdf,Unicorn,"(5, 1, 7, 3, 6, 2, 4, 0)",0.495456025,0.703509035,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session001.xdf,UnicornEEG,"(3, 7, 1, 2, 6, 0, 5, 4)",0.438524428,0.638322356,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session002.xdf,Unicorn,"(6, 3, 7, 5, 0, 2, 4, 1)",0.353676365,0.851284623,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session003.xdf,unicorn,"(7, 6, 3, 2, 5, 0, 1, 4)",0.200518659,0.764598441,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\Jeusa\n-back\n-back-session004.xdf,unicorn,"(6, 1, 7, 3, 0, 4, 2, 5)",0.063927023,0.732022997,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-08-29_15-16-51.xdf,UnicornEEG,"(5, 1, 4, 2, 0, 6, 7, 3)",0.031658417,0.778897297,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-08-30_14-43-32.xdf,UnicornEEG,"(3, 0, 2, 1, 4, 7, 6, 5)",0.668231011,0.771966264,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-09-02_15-12-31.xdf,UnicornEEG,"(3, 0, 2, 1, 4, 7, 6, 5)",0.681930234,0.75452424,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\n-back\xdfs\session_2024-09-03_10-17-01.xdf,UnicornEEG,"(4, 1, 5, 2, 0, 6, 7, 3)",0.471186422,0.697697491,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-11-13_15-58.xdf,UnicornEEG,"(0, 1, 2, 5, 4, 3, 7, 6)",0.262183948,0.831417172,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-11-21_15-28.xdf,UnicornEEG,"(0, 6, 1, 2, 4, 3, 5, 7)",0.628301386,0.809003215,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-09_15-05.xdf,UnicornEEG,"(7, 5, 4, 1, 6, 2, 0, 3)",0.086411768,0.924013791,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-12_14-44.xdf,UnicornEEG,"(0, 6, 2, 1, 4, 3, 5, 7)",0.682482192,0.766526929,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2024-12-20_15-07.xdf,UnicornEEG,"(6, 1, 0, 2, 4, 5, 7, 3)",0.71849684,0.876154562,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-01-17_15-19.xdf,UnicornEEG,"(0, 2, 3, 1, 4, 7, 6, 5)",0.486309855,0.84496793,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-01-20_14-40.xdf,UnicornEEG,"(5, 1, 4, 2, 0, 6, 7, 3)",-0.028265806,0.796248181,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-02-03_15-54.xdf,UnicornEEG,"(0, 3, 6, 1, 4, 7, 5, 2)",0.35191529,0.620779822,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\data\unlabeled\xdfs\session_2025-02-05_17-15.xdf,UnicornEEG,"(5, 6, 7, 1, 4, 3, 0, 2)",0.559998398,0.880179703,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-08-29_15-16-51.xdf,UnicornEEG,"(5, 1, 4, 2, 0, 6, 7, 3)",0.031658417,0.778897297,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-08-30_14-43-32.xdf,UnicornEEG,"(3, 0, 2, 1, 4, 7, 6, 5)",0.668231011,0.771966264,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-09-02_15-12-31.xdf,UnicornEEG,"(3, 0, 2, 1, 4, 7, 6, 5)",0.681930234,0.75452424,TRUE
+Yeliz,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\2\Yeliz\n-back\xdfs\session_2024-09-03_10-17-01.xdf,UnicornEEG,"(4, 1, 5, 2, 0, 6, 7, 3)",0.471186422,0.697697491,TRUE
+eeg_data,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P01\eeg\sub-P01_eeg.xdf,Unicorn,"(0, 1, 7, 3, 4, 6, 5, 2)",0.715692748,0.732972168,TRUE
+eeg_data,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P03\eeg\sub-P03_eeg.xdf,Unicorn,"(0, 1, 5, 7, 6, 4, 2, 3)",0.088822093,0.7524765,TRUE
+eeg_data,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P06\eeg\sub-P06_eeg.xdf,Unicorn,"(3, 6, 5, 2, 1, 7, 0, 4)",-0.180208079,0.764077829,TRUE
+eeg_data,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P08\eeg\sub-P08_eeg.xdf,Unicorn,"(1, 6, 2, 7, 4, 5, 0, 3)",0.620364167,0.829935115,TRUE
+eeg_data,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\3\eeg_data\P10\eeg\sub-P10_eeg.xdf,Unicorn,"(6, 7, 4, 3, 5, 2, 1, 0)",0.054273385,0.790663687,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P001_jannik\ses-S001\eeg\sub-P001_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(3, 2, 4, 0, 6, 7, 5, 1)",-0.061396953,0.644983319,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P001_jannik\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(3, 0, 4, 2, 6, 7, 5, 1)",0.070044995,0.775792899,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P002_Moritz\ses-S002\eeg\sub-P002_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(5, 6, 4, 7, 2, 1, 0, 3)",-0.302426129,0.77055467,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P003_Abdullah\ses-S002\eeg\sub-P003_Abdullah_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.061075846,0.888993514,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P004_Anita\ses-S002\eeg\sub-P004_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(7, 2, 4, 3, 0, 6, 5, 1)",0.168844722,0.842480694,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P004_Anita\sub-P004\ses-S001\eeg\sub-P004_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.153750297,0.859740294,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P005_Lotta\sub-P005\ses-S001\eeg\sub-P005_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.064583551,0.85825477,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P005_Lotta\sub-P005\ses-S002\eeg\sub-P005_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(2, 5, 1, 4, 6, 0, 3, 7)",-0.035235341,0.71748818,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P006_Julian\sub-P006\ses-S001\eeg\sub-P006_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(5, 3, 4, 2, 0, 6, 7, 1)",0.044707784,0.880521179,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P006_Julian\sub-P006\ses-S002\eeg\sub-P006_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(5, 3, 4, 2, 0, 6, 7, 1)",0.115314594,0.876761352,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P007_julia\sub-P007\ses-S001\eeg\sub-P007_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(7, 2, 4, 3, 0, 6, 5, 1)",0.057463848,0.883189177,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P007_julia\sub-P007\ses-S002\eeg\sub-P007_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(7, 2, 4, 3, 0, 6, 5, 1)",0.050632436,0.89898424,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P008_Aliaa\sub-P008\ses-S001\eeg\sub-P008_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(5, 1, 4, 2, 0, 6, 7, 3)",0.043296828,0.937347628,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P008_Aliaa\sub-P008\ses-S002\eeg\sub-P008_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(5, 1, 4, 2, 0, 6, 7, 3)",0.013782859,0.938404151,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S001\eeg\sub-P009_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.028453768,0.817412194,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P009_Jurin\ses-S002\eeg\sub-P009_Jurin_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(5, 2, 7, 3, 0, 6, 4, 1)",0.550682124,0.660552775,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P010_Nils\ses-S001\eeg\sub-P008_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.2331744,0.767031262,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P010_Nils\ses-S002\eeg\sub-P010_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",-0.019259493,0.825409882,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S001\eeg\sub-P011_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(5, 1, 4, 2, 0, 6, 7, 3)",0.199884185,0.789673108,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P011_Rami\sub-P011\ses-S002\eeg\sub-P011_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(5, 1, 4, 2, 0, 6, 7, 3)",0.11501212,0.794157574,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P012_Jonas\ses-S001\eeg\sub-P012_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.137066777,0.840587759,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P012_Jonas\ses-S002\eeg\sub-P001_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.021497527,0.7840888,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S001\eeg\sub-P013_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(5, 2, 4, 1, 0, 7, 6, 3)",0.042368959,0.772494381,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P013_Jassim\ses-S002\eeg\sub-P013_ses-S002_task-Default_run-001_eeg_old1.xdf,Unicorn,"(4, 2, 5, 1, 0, 6, 7, 3)",0.195952379,0.777511964,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S001\eeg\sub-P014_cihan_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.116024798,0.873928732,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P014_cihan\ses-S002\eeg\sub-P014_cihan_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.074995106,0.891879083,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S001\eeg\sub-P015_ses-S001_task-Default_run-001_eeg_old1.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.133016353,0.762823371,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P015_Julius\sub-P015\ses-S002\eeg\sub-P015_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.07269307,0.883337661,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S001\eeg\sub-P016_ses-S001_task-Default_run-001_eeg.xdf,Unicorn,"(7, 3, 4, 2, 0, 6, 5, 1)",0.035006928,0.882819588,TRUE
+gme_2425_data+code,D:\A. NEUROSCIENCE\CSL LAB Project I\Data\1\gme_2425_data+code\sub-P016\ses-S002\eeg\sub-P016_ses-S002_task-Default_run-001_eeg.xdf,Unicorn,"(7, 2, 4, 3, 0, 6, 5, 1)",0.067514942,0.885507549,TRUE
